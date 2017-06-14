@@ -45,3 +45,14 @@ Bonus points for incorporating the following (optional):
 - absence of jQuery
 - a production webpack build
 - basic business-logic unit tests
+- optimized browser performance
+
+
+
+### Hints
+
+- [React Docs](https://facebook.github.io/react/docs/hello-world.html)
+- Think carefully about how to break down the UI into React components
+- [create-react-app](https://github.com/facebookincubator/create-react-app) might be worth checking out to get up-and-running quickly
+- Think about using SVG (either raw or via d3) for the weight visualization
+- Be careful when working with dates
