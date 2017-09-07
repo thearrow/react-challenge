@@ -24,7 +24,7 @@ Display a patient list with some important attributes:
 ![Patient List Wireframe](/wireframes/list.png?raw=true)
 
 ##### Detail
-When a patient in the list is clicked, it should display the detail page for that patient with more information and a simple weight visualization (bubbles in image below are for explanation, and don't need to be included in the final product):
+When a patient in the list is clicked, it should display the detail page for that patient with more information and a simple weight visualization (like a box-and-whisker plot, without the box) (bubbles in image below are for explanation, and don't need to be included in the final product):
 
 ![Patient Detail Wireframe](/wireframes/detail.png?raw=true)
 
