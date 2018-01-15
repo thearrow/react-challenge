@@ -10,7 +10,7 @@ This challenge was designed to mimic a real task you might tackle as a front-end
 
 While completing this challenge, try to write the cleanest, easiest-to-read-and-change, most-efficient, most-production-ready code that you are capable of writing. Assume the audience is another developer who will try to run, read, and change your code.
 
-Feel free to modify the design to your own desires - treat the images below as barebones wireframes. The important part is the functionality.
+Feel free to modify the (aesthetic) design to your own desires - treat the images below as barebones wireframes. The important part is the functionality.
 
 
 
@@ -34,18 +34,18 @@ When a patient in the list is clicked, it should display the detail page for tha
 
 Beyond [React](https://facebook.github.io/react/), feel free to use whatever tech you desire.
 
-Bonus points for incorporating the following (optional):
-- attractive UI design
-- a readme with run instructions
-- ES6 class component syntax
-- webpack
-- redux
-- react-router
-- d3.js
-- absence of jQuery
+Think about incorporating the following into your solution:
+
+- an attractive UI design
+- frontend routing that works (with sensible URLs)
+- a browser's back button that works as expected
+- a readme with run / test / build instructions
 - a production webpack build
+- ES6 class component syntax
 - basic business-logic unit tests
-- optimized browser performance
+- optimized performance
+- flow types
+- absence of jQuery
 
 
 
@@ -54,5 +54,5 @@ Bonus points for incorporating the following (optional):
 - [React Docs](https://facebook.github.io/react/docs/hello-world.html)
 - Think carefully about how to break down the UI into React components
 - [create-react-app](https://github.com/facebookincubator/create-react-app) might be worth checking out to get up-and-running quickly
-- Think about using SVG (either raw or via d3) for the weight visualization
+- Think about SVG for the weight visualization
 - Be careful when working with dates
